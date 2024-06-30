@@ -17,7 +17,7 @@ export default function Page(){
         className="block md:hidden"
         alt="Screenshots of the dashboard project showing desktop version"
       />
-        <h1 className="text-3xl font-bold">生命是有光的！</h1>
+        <h1 className="text-3xl font-bold">生命是有光的</h1>
         <Link href="/">返回</Link>
       </div>
     )
